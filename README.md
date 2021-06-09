@@ -6,7 +6,7 @@ This library provides a trait for mixing in to an Eloquent Model. Doing so will 
 To use, first require in your composer file:
 
 ```
-composer require troelskn/laravel-fillable-relations
+composer require jekferson/laravel-fillable-relations
 ```
 
 Then, in your code:
