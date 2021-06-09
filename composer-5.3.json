@@ -1,12 +1,12 @@
 {
-    "name": "troelskn/laravel-fillable-relations",
-    "description": "Provides HasFillableRelations trait to Eloquent models",
+    "name": "jekferson/laravel-fillable-relations",
+    "description": "Provides HasFillableRelations trait to Eloquent models from troelskn/laravel-fillable-relations",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Troels Knak-Nielsen",
-            "email": "troelskn@gmail.com"
+            "name": "Jekferson Diaz",
+            "email": "jekferson@gmail.com"
         }
     ],
     "require": {
