@@ -1,6 +1,6 @@
 {
     "name": "jekferson/laravel-fillable-relations",
-    "description": "Provides HasFillableRelations trait to Eloquent models from troelskn/laravel-fillable-relations",
+    "description": "Provides HasFillableRelations trait to Eloquent models",
     "type": "library",
     "license": "MIT",
     "authors": [
